@@ -1,0 +1,20 @@
+body{
+	text-align: center
+}
+#dis{
+	font-size: 8;
+}
+img{
+	width: 775px;
+	height: 500px;
+}
+#Microsofttems{
+	width: 100px;
+	height: 100px;
+}
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
